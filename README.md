@@ -19,3 +19,4 @@ https://www.figma.com/design/q2GmY9eg9U01wGiUFiwtsR/Libraries?node-id=0-1&p=f&t=
 https://www.figma.com/design/4KYBk0Ei49CPNcf3B604pX/Untitled?node-id=0-1&p=f&t=u8rcswdJ0KjTj1PN-0
 
 //Создание логина и пароля для своего сайта//
+1
